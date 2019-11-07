@@ -17,4 +17,7 @@ It has to Operating Systems: (but you can use other operating systems like Ubunt
 * NOOBS
 * Raspbian
 
+[Image](./ubuntu.png)
+[Image](./windows.png)
+
 With the Raspberry Pi 4 you can even hack (See all your passwords and websites you access), so use a VPN when you see one near you.

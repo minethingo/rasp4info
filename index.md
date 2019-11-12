@@ -13,11 +13,11 @@ Examples of projects that use Raspberry Pi:
 * Pi-Top
 * Rob’s Raspberry Pi Dungeons and Dragons table
 
-It has to Operating Systems: (but you can use other operating systems like Ubuntu and Windows 10)
+It has to Operating Systems: (but you can use other operating systems like <img src="./ubuntu.png" width="90" height="30" alt="ubuntu" /> and <img src="./windows.png" width="80" height="30" alt="windows" />)
 * NOOBS
 * Raspbian
 
-<img src="./ubuntu.png" width="130" height="50" alt="ubuntu" />
-<img src="./windows.png" width="130" height="50" alt="windows" />
+
+
 
 With the Raspberry Pi 4 you can even hack (See all your passwords and websites you access), so use a VPN when you see one near you.

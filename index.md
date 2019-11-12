@@ -13,7 +13,7 @@ Examples of projects that use Raspberry Pi:
 * Pi-Top
 * Rob’s Raspberry Pi Dungeons and Dragons table
 
-It has to Operating Systems: (but you can use other operating systems like <img src="./ubuntu.png" width="90" height="30" alt="ubuntu" /> and <img src="./windows.png" width="80" height="30" alt="windows" />)
+It has to Operating Systems: (but you can use other operating systems like <img src="./ubuntu.png" width="90" height="30" alt="ubuntu" /> and <img src="./windows.png" width="100" height="30" alt="windows" />)
 * NOOBS
 * Raspbian
 
